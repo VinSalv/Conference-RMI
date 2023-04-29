@@ -11,11 +11,13 @@
 </p>
 
 ### Register a speaker
-## Success
+
+#### Success
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45711698/235295257-612a87f2-8988-46fe-8031-e3b2e89f05a0.png" />
 </p>
-## Failure
+
+#### Failure
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45711698/235295263-865c5f1c-8f17-4e27-b7d2-03fe823a1b09.png" />
 </p>
